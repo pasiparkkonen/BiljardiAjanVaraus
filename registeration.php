@@ -4,7 +4,7 @@
     <?php include 'head.php'; ?>
 </head>
 <body>
-    <?php include 'body.php'; ?>
+    <?php include 'registerationform.php' ?>
 	<?php include 'footer.php'; ?>
 </body>
 </html>
